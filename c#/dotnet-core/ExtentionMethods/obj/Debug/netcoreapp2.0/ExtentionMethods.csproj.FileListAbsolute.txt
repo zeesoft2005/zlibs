@@ -1,0 +1,8 @@
+D:\git\zlibs\c#\dotnet-core\ExtentionMethods\bin\Debug\netcoreapp2.0\ExtentionMethods.deps.json
+D:\git\zlibs\c#\dotnet-core\ExtentionMethods\bin\Debug\netcoreapp2.0\ExtentionMethods.dll
+D:\git\zlibs\c#\dotnet-core\ExtentionMethods\bin\Debug\netcoreapp2.0\ExtentionMethods.pdb
+D:\git\zlibs\c#\dotnet-core\ExtentionMethods\obj\Debug\netcoreapp2.0\ExtentionMethods.csproj.CoreCompileInputs.cache
+D:\git\zlibs\c#\dotnet-core\ExtentionMethods\obj\Debug\netcoreapp2.0\ExtentionMethods.AssemblyInfoInputs.cache
+D:\git\zlibs\c#\dotnet-core\ExtentionMethods\obj\Debug\netcoreapp2.0\ExtentionMethods.AssemblyInfo.cs
+D:\git\zlibs\c#\dotnet-core\ExtentionMethods\obj\Debug\netcoreapp2.0\ExtentionMethods.dll
+D:\git\zlibs\c#\dotnet-core\ExtentionMethods\obj\Debug\netcoreapp2.0\ExtentionMethods.pdb
